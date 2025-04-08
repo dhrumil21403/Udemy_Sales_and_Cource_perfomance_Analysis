@@ -73,14 +73,6 @@ This project aims to understand the reasons behind this trend and suggest **solu
 
 ---
 
-## 💡 **Future Improvements**
-
-- **Predictive modeling** for future enrollments  
-- **Sentiment analysis** on course reviews  
-- **Real-time dashboard** using tools like Power BI or Streamlit
-
----
-
 ## 📬 **Contact**
 
 For queries or collaboration, feel free to connect:
@@ -88,11 +80,3 @@ For queries or collaboration, feel free to connect:
 **Dhrumil Patel**  
 📧 **Email:** pdhrumil079@gmail.com 
 🌐 **Linkedin:** www.linkedin.com/in/dhrumil-pa
-
-
-# Save as README_final.md
-readme_final_path = "/mnt/data/README_final.md"
-with open(readme_final_path, "w", encoding="utf-8") as f:
-    f.write(readme_md)
-
-readme_final_path
