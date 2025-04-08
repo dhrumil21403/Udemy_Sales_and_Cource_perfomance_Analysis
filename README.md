@@ -58,10 +58,17 @@ This project aims to understand the reasons behind this trend and suggest **solu
 
 ## 📁 **Files Included**
 
-- `udemy_analysis.ipynb` – Jupyter notebook with full analysis  
-- `udemy_dataset.csv` – Dataset used *(if available)*  
-- `Screenshot 2025-04-05 222622.png` – Visual summary of findings  
-- `README.md` – Project documentation  
+### 📂 `code/`
+- `udemy_analysis_cleaned.ipynb` – Cleaned Jupyter notebook with full analysis
+
+### 📂 `dataset/`
+- `udemy_cleaned.csv` – Dataset used *(cleaned version)*
+
+### 📂 `presentation/`
+- `udemy_presentation.pdf` – Visual summary of findings
+
+### 📂 Root
+- `README.md` – Project documentation
 
 ---
 
